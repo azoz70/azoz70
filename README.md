@@ -1,24 +1,31 @@
-# 👋 Marhaba — I'm Abo Sara
+👋 Marhaba — I’m Abo Sara 🐫
 
-Cybersecurity professional focused on **Governance, Risk & Compliance (GRC)** and **offensive security**.
+Cybersecurity professional focused on Governance, Risk & Compliance (GRC), Cloud Security, and Offensive Security.
 
-## What I do
+My background combines cybersecurity governance, risk management, security operations, and practical security engineering. I’m interested in exploring security challenges from both defensive and offensive perspectives and building solutions that address real-world security needs.
 
-- **GRC** — ISO 27001, NCA ECC/DCC, risk assessment, vulnerability management
-- **Offensive security** — web & API testing, recon, red team fundamentals
-- **Security operations** — monitoring, incident response, threat detection
+What I do
 
-## What I'm building
+* GRC — ISO 27001, NCA ECC/DCC, SAMA CSF, risk assessments, security governance, and compliance.
+* Cloud Security — AWS, Microsoft Azure, cloud security architecture, IAM, cloud governance, and security assessments.
+* Offensive Security — Web application and API testing, reconnaissance, penetration testing, and Red Team fundamentals.
+* Security Operations — SIEM, EDR/XDR, DLP, vulnerability management, threat detection, and incident response.
+* Security Engineering — Python scripting, automation, Docker, and practical security solutions.
 
-- 🐫 **[CRACK OR TRACK](https://github.com/azoz70/crack-or-track)** — a cybersecurity training game with a **Red Team** and **SOC** track, a terminal CLI, and a web GUI.
+What I’m building
 
-## Stack
+* 🐫 CRACK OR TRACK — A cybersecurity training game featuring Red Team and SOC challenges, with interactive CLI and web GUI experiences.
+* 🔐 Security Projects — Exploring cybersecurity automation, AI-powered security tools, cloud security, and practical security assessments.
 
-Python · Kali Linux · Docker · NCA ECC/DCC · MITRE ATT&CK · SQL · FastAPI
+Tools & Technologies
 
-## Focus
+Python · Kali Linux · AWS · Microsoft Azure · Microsoft Security · Docker · FastAPI · SQL · MITRE ATT&CK · SIEM · EDR/XDR · DLP
 
-Deepening practical offensive security while applying GRC frameworks — learning by building and testing in authorized labs only.
+Current Focus
 
----
-*Crack the System. Track the Threat.*
+* Cloud security engineering across AWS and Microsoft environments.
+* Web application security and penetration testing.
+* AI-powered cybersecurity tools and automation.
+* Bridging GRC frameworks with technical security implementations.
+* Hands-on security research and authorized lab environments.
+
