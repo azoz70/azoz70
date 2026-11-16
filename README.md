@@ -1,26 +1,25 @@
-# عبدالعزيز الشهري · Abdulaziz Alshehri
+# Abdulaziz Alshehri
 
-> 🛡️ Cybersecurity enthusiast — building interactive security training experiences
+> 🛡️ Cybersecurity researcher
 
-## عنّي · About Me
-أهلاً بك! أنا **عبدالعزيز الشهري**، مهتم بالأمن السيبراني وبناء أدوات تدريب تفاعلية تجعل التعلّم ممتعاً وعملياً.
+## About Me
+I'm **Abdulaziz Alshehri**, a cybersecurity researcher with a passion for securing the web and the cloud.
 
-I'm **Abdulaziz Alshehri**, passionate about cybersecurity and building hands-on training tools.
+## 🔍 Interests
+- 🌐 **Web Application Security** & Penetration Testing
+- ☁️ **Cloud Security**
+- 📋 **GRC** (Governance, Risk & Compliance)
 
-## 🐪 مشاريعي · My Projects
+## 🐪 Projects
 
 ### [CRACK OR TRACK](https://github.com/azoz70/crack-or-track)
-لعبة تدريب سيبراني تفاعلية بمسارين — بالعربية والإنجليزية:
-- 🔴 **CRACK** — الفريق الأحمر (استطلاع، ويب، API)
-- 🔵 **TRACK** — مركز العمليات (تصيّد، SIEM، برمجيات خبيثة)
-- ✅ **120 سؤالاً** تفاعلياً + تقارير مفصلة + تحليلات مهارات + وضع مراجعة
+An interactive cybersecurity training game with two tracks (Arabic & English):
+- 🔴 **CRACK** — Red Team (recon, web, API)
+- 🔵 **TRACK** — SOC (phishing, SIEM, malware)
+- ✅ 120 interactive questions + detailed reports + skill analytics + review mode
 
-## 🧰 مهاراتي · Skills
-`Reconnaissance` `Web Security` `API Security` `SIEM` `Threat Hunting` `Incident Response` `Python`
+## 🧰 Skills
+`Web Security` `Penetration Testing` `Cloud Security` `GRC` `SIEM` `Threat Hunting` `Incident Response` `Python`
 
-## 📬 تواصل · Connect
+## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulaziz%20Alshehri-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abdulaziz-alshehri/)
-
----
-
-*Built with curiosity 🔍*
