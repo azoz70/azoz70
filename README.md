@@ -1,31 +1,26 @@
-👋 Marhaba — I’m Abo Sara 🐫
+# عبدالعزيز الشهري · Abdulaziz Alshehri
 
-Cybersecurity professional focused on Governance, Risk & Compliance (GRC), Cloud Security, and Offensive Security.
+> 🛡️ Cybersecurity enthusiast — building interactive security training experiences
 
-My background combines cybersecurity governance, risk management, security operations, and practical security engineering. I’m interested in exploring security challenges from both defensive and offensive perspectives and building solutions that address real-world security needs.
+## عنّي · About Me
+أهلاً بك! أنا **عبدالعزيز الشهري**، مهتم بالأمن السيبراني وبناء أدوات تدريب تفاعلية تجعل التعلّم ممتعاً وعملياً.
 
-What I do
+I'm **Abdulaziz Alshehri**, passionate about cybersecurity and building hands-on training tools.
 
-* GRC — ISO 27001, NCA ECC/DCC, SAMA CSF, risk assessments, security governance, and compliance.
-* Cloud Security — AWS, Microsoft Azure, cloud security architecture, IAM, cloud governance, and security assessments.
-* Offensive Security — Web application and API testing, reconnaissance, penetration testing, and Red Team fundamentals.
-* Security Operations — SIEM, EDR/XDR, DLP, vulnerability management, threat detection, and incident response.
-* Security Engineering — Python scripting, automation, Docker, and practical security solutions.
+## 🐪 مشاريعي · My Projects
 
-What I’m building
+### [CRACK OR TRACK](https://github.com/azoz70/crack-or-track)
+لعبة تدريب سيبراني تفاعلية بمسارين — بالعربية والإنجليزية:
+- 🔴 **CRACK** — الفريق الأحمر (استطلاع، ويب، API)
+- 🔵 **TRACK** — مركز العمليات (تصيّد، SIEM، برمجيات خبيثة)
+- ✅ **120 سؤالاً** تفاعلياً + تقارير مفصلة + تحليلات مهارات + وضع مراجعة
 
-* 🐫 CRACK OR TRACK — A cybersecurity training game featuring Red Team and SOC challenges, with interactive CLI and web GUI experiences.
-* 🔐 Security Projects — Exploring cybersecurity automation, AI-powered security tools, cloud security, and practical security assessments.
+## 🧰 مهاراتي · Skills
+`Reconnaissance` `Web Security` `API Security` `SIEM` `Threat Hunting` `Incident Response` `Python`
 
-Tools & Technologies
+## 📬 تواصل · Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulaziz%20Alshehri-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abdulaziz-alshehri/)
 
-Python · Kali Linux · AWS · Microsoft Azure · Microsoft Security · Docker · FastAPI · SQL · MITRE ATT&CK · SIEM · EDR/XDR · DLP
+---
 
-Current Focus
-
-* Cloud security engineering across AWS and Microsoft environments.
-* Web application security and penetration testing.
-* AI-powered cybersecurity tools and automation.
-* Bridging GRC frameworks with technical security implementations.
-* Hands-on security research and authorized lab environments.
-
+*Built with curiosity 🔍*
