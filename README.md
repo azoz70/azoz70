@@ -1,25 +1,44 @@
+<div align="center">
+
 # Abdulaziz Alshehri
 
-> 🛡️ Cybersecurity researcher
+### Cybersecurity Governance, Risk & Compliance | Open-Source Security Tools
 
-## About Me
-I'm **Abdulaziz Alshehri**, a cybersecurity researcher with a passion for securing the web and the cloud.
+**Making cybersecurity compliance, risk assessment, and security assurance more practical through open-source tools.**
 
-## 🔍 Interests
-- 🌐 **Web Application Security** & Penetration Testing
-- ☁️ **Cloud Security**
-- 📋 **GRC** (Governance, Risk & Compliance)
+[LinkedIn](https://www.linkedin.com/in/abdulaziz-alshehri/) · [Projects](https://github.com/azoz70?tab=repositories)
 
-## 🐪 Projects
+</div>
 
-### [CRACK OR TRACK](https://github.com/azoz70/crack-or-track)
-An interactive cybersecurity training game with two tracks (Arabic & English):
-- 🔴 **CRACK** — Red Team (recon, web, API)
-- 🔵 **TRACK** — SOC (phishing, SIEM, malware)
-- ✅ 120 interactive questions + detailed reports + skill analytics + review mode
+---
 
-## 🧰 Skills
-`Web Security` `Penetration Testing` `Cloud Security` `GRC` `SIEM` `Threat Hunting` `Incident Response` `Python`
+## About
 
-## 📬 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulaziz%20Alshehri-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abdulaziz-alshehri/)
+I am a cybersecurity professional specializing in **Governance, Risk & Compliance (GRC)**, with a focus on translating security requirements into practical assessments, measurable outcomes, and actionable risk insights.
+
+I develop **open-source cybersecurity tools** to help practitioners evaluate security configurations, understand access permissions, and improve the consistency of security reviews.
+
+## Focus Areas
+
+- **Cybersecurity Compliance:** Security control assessment, evidence-based validation, and alignment with regulatory and industry frameworks.
+- **Cybersecurity Risk Management:** Risk identification, evaluation, prioritization, and remediation tracking.
+- **Security Governance:** Control effectiveness, accountability, and continuous improvement.
+- **Open-Source Security Engineering:** Practical tools for technical auditing, access visibility, and security workflows.
+
+## Open-Source Projects
+
+| Project | Description |
+| --- | --- |
+| **[MIJHAR](https://github.com/azoz70/mijhar)** | A security configuration assessment tool focused on technical checks and mapping findings to security controls. |
+| **[PERMISSION MAP](https://github.com/azoz70/permission-map)** | An evolving local-first tool for understanding access relationships and supporting identity and permission reviews. |
+| **[CRACK OR TRACK](https://github.com/azoz70/crack-or-track)** | An interactive cybersecurity learning project covering offensive and defensive security scenarios. |
+
+*Project capabilities and release status are documented in their respective repositories.*
+
+## What I Aim to Build
+
+Security tools should be **transparent, useful, and evidence-driven**. My work focuses on making security assessments easier to perform, results easier to understand, and risks easier to communicate.
+
+## Connect
+
+[LinkedIn — Abdulaziz Alshehri](https://www.linkedin.com/in/abdulaziz-alshehri/) · [GitHub Repositories](https://github.com/azoz70?tab=repositories)
